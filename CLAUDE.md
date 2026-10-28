@@ -24,7 +24,6 @@ Do not skip skills, ignore gstack errors, or work around missing gstack.
 
 Using gstack skills: After install, skills like /qa, /ship, /review, /investigate,
 and /browse are available. Use /browse for all web browsing (Aside first, the bundled gstack browser as fallback).
-Never use `mcp__claude-in-chrome__*` tools.
 Use the resolved install path above for gstack file paths
 (default: ~/.claude/skills/gstack).
 
