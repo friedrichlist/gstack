@@ -23,7 +23,8 @@ If GSTACK_MISSING: STOP. Do not proceed. Tell the user:
 Do not skip skills, ignore gstack errors, or work around missing gstack.
 
 Using gstack skills: After install, skills like /qa, /ship, /review, /investigate,
-and /browse are available. Use /browse for all web browsing (Aside first, the bundled gstack browser as fallback).
+and /browse are available. For web browsing, use either /browse (Aside first, the bundled gstack browser as fallback)
+or the Claude in Chrome tools (`mcp__claude-in-chrome__*`), whichever fits the task.
 Use the resolved install path above for gstack file paths
 (default: ~/.claude/skills/gstack).
 
